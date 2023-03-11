@@ -1,0 +1,79 @@
+Author  : H. M. Deitel
+Title   : C++ How to Program
+ISBN    : 130895717
+
+Author  : Judy Bishop
+Title   : Java Gently
+ISBN    : 201593998
+
+Author  : Jeff Salvage
+Title   : The C++ Coach
+ISBN    : 201702894
+
+Author  : Thomas Wu
+Title   : Object-Oriented Programming with Java
+ISBN    : 256254621
+
+Author  : Cay Horstmann
+Title   : Computing Concepts with C++
+ISBN    : 471164372
+
+Author  : Gary Bronson
+Title   : Program Development and Design
+ISBN    : 534371302
+
+Author  : Joyce Farrell
+Title   : Object-Oriented Programming
+ISBN    : 619033614
+
+Author  : D. S. Malik
+Title   : C++ Programming
+ISBN    : 619062134
+
+Author  : James Roberge
+Title   : Introduction to Programming in C++
+ISBN    : 669347183
+
+Author  : Nell Dale
+Title   : C++ Plus Data Structures
+ISBN    : 763714704
+
+
+Searching the Database using the given ISBN: 
+
+The ISBN: 201593998, has been found in our database: 
+Author  : Judy Bishop
+Title   : Java Gently
+ISBN    : 201593998
+
+The ISBN: 888899999, could not be found in our collection 
+
+The ISBN: 763714704, has been found in our database: 
+Author  : Nell Dale
+Title   : C++ Plus Data Structures
+ISBN    : 763714704
+
+The ISBN: 111122222, could not be found in our collection 
+
+The ISBN: 256254621, has been found in our database: 
+Author  : Thomas Wu
+Title   : Object-Oriented Programming with Java
+ISBN    : 256254621
+
+The ISBN: 130895717, has been found in our database: 
+Author  : H. M. Deitel
+Title   : C++ How to Program
+ISBN    : 130895717
+
+The ISBN: 488881111, could not be found in our collection 
+
+The ISBN: 534371302, has been found in our database: 
+Author  : Gary Bronson
+Title   : Program Development and Design
+ISBN    : 534371302
+
+The ISBN: 619033614, has been found in our database: 
+Author  : Joyce Farrell
+Title   : Object-Oriented Programming
+ISBN    : 619033614
+
